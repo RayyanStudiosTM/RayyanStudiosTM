@@ -3,13 +3,13 @@
 --Building innovative web applications and AI-powered tools that enhance productivity and user experience, while continuously improving my skills in full stack development and data-driven solutions.
 
 👯 I’m looking to collaborate on:<br>
---Projects involving front-end or full-stack development, machine learning applications, cloud-based platforms, and open-source contributions that solve real-world problems.
+--Projects involving front-end development, AI Powered applications, cloud-based platforms, and open-source contributions that solve real-world problems.
 
 🤝 I’m looking for help with:<br>
---Advanced machine learning deployment, cloud architecture optimization, and large-scale system design for scalable applications.
+--Advanced backend development, cloud architecture optimization, and large-scale system design for scalable applications.
 
 🌱 I’m currently learning:<br>
---Cloud-native development (AWS/GCP), system design principles, prompt engineering, and UI/UX strategies that align with user behavior and accessibility standards.
+--Cloud-native development (AWS/GCP), system design principles, prompt engineering, and backend development.
 
 💬 Ask me about:<br>
 --Full stack development, data science workflows, cloud infrastructure, ethical hacking principles, or leading student tech communities.
