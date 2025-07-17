@@ -1,6 +1,21 @@
 # 💫 About Me:
 🔭 I’m currently working on:<br>
-Building innovative web applications and AI-powered tools that enhance productivity and user experience, while continuously improving my skills in full stack development and data-driven solutions.<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+--Building innovative web applications and AI-powered tools that enhance productivity and user experience, while continuously improving my skills in full stack development and data-driven solutions.
+
+👯 I’m looking to collaborate on:<br>
+--Projects involving front-end or full-stack development, machine learning applications, cloud-based platforms, and open-source contributions that solve real-world problems.
+
+🤝 I’m looking for help with:<br>
+--Advanced machine learning deployment, cloud architecture optimization, and large-scale system design for scalable applications.
+
+🌱 I’m currently learning:<br>
+--Cloud-native development (AWS/GCP), system design principles, prompt engineering, and UI/UX strategies that align with user behavior and accessibility standards.
+
+💬 Ask me about:<br>
+--Full stack development, data science workflows, cloud infrastructure, ethical hacking principles, or leading student tech communities.
+
+⚡ Fun fact:<br>
+--I thrive in fast-paced environments where I can continuously learn, experiment, and contribute to impactful technology solutions.
 
 
 ## 🌐 Socials:
