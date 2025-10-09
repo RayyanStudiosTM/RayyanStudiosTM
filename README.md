@@ -9,7 +9,7 @@ Hi, I’m Rayyan 👋<br>
 🔭 I’m currently working on:<br>
 --Building innovative web applications and AI-powered tools that enhance productivity and user experience, while continuously improving my skills in full stack development and data-driven solutions.
 
-👯 I’m looking to collaborate on:<br>
+👯 I’m looking to collaborate on:<br>          
 --Projects involving front-end development, AI Powered applications, cloud-based platforms, and open-source contributions that solve real-world problems.
 
 🤝 I’m looking for help with:<br>
